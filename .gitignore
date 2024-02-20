@@ -1,0 +1,6 @@
+InfoSec.session
+InfoSec.session-journal
+sender.session
+__pycache__/
+.venv
+venv/
